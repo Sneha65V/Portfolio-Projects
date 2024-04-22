@@ -1,4 +1,6 @@
--- Data Cleaning
+-- Data Cleaning using MySQL 
+
+-- https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
 
 -- SELECTING THE REQUIRED TABLE FROM THE DATABASE
 USE world_layoffs;
